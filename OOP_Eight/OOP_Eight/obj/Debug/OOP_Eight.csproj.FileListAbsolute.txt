@@ -1,0 +1,10 @@
+C:\Users\Роман\source\repos\OOP_Eight\OOP_Eight\bin\Debug\OOP_Eight.exe.config
+C:\Users\Роман\source\repos\OOP_Eight\OOP_Eight\bin\Debug\OOP_Eight.exe
+C:\Users\Роман\source\repos\OOP_Eight\OOP_Eight\bin\Debug\OOP_Eight.pdb
+C:\Users\Роман\source\repos\OOP_Eight\OOP_Eight\obj\Debug\OOP_Eight.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\OOP_Eight\OOP_Eight\obj\Debug\OOP_Eight.Form1.resources
+C:\Users\Роман\source\repos\OOP_Eight\OOP_Eight\obj\Debug\OOP_Eight.Properties.Resources.resources
+C:\Users\Роман\source\repos\OOP_Eight\OOP_Eight\obj\Debug\OOP_Eight.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\OOP_Eight\OOP_Eight\obj\Debug\OOP_Eight.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\OOP_Eight\OOP_Eight\obj\Debug\OOP_Eight.exe
+C:\Users\Роман\source\repos\OOP_Eight\OOP_Eight\obj\Debug\OOP_Eight.pdb
